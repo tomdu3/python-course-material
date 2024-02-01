@@ -43,3 +43,14 @@
 ## Online Resources
 1. [The Hitchhicker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 2. [Real Python](https://realpython.com/)
+<hr>
+
+## Git and GitHub
+
+### Youtube Tutorials
+1. [Learn Git & @GitHub — Full course for beginners [2024] ](https://youtu.be/YCQQh6cq1tA)
+2. [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw)
+3. [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
+4. [Git & GitHub Tutorial for Beginners](https://youtu.be/3RjQznt-8kE?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+5. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
+6. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
