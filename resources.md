@@ -16,7 +16,10 @@
 4. [Scrimba - Learn Python](https://scrimba.com/learn/python)
 5. [Codecademy - Learn Python 3](https://www.codecademy.com/catalog/language/python)
 6. [Harvard's CS50 - Python](https://cs50.harvard.edu/python/2022/)
-
+7. [Microsoft - Intro to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
+8. [Educative - Learn Python 3 from Scratch](https://www.educative.io/courses/learn-python-3-from-scratch)
+9. [Udemy - Learn Python for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/l)
+10. [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 ## YouTube Courses
 1. [freeCodeCamp Learn Python - Full Course for Beginners -  Tutorial](https://youtu.be/rfscVS0vtbw)
