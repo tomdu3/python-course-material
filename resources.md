@@ -20,6 +20,7 @@
 8. [Educative - Learn Python 3 from Scratch](https://www.educative.io/courses/learn-python-3-from-scratch)
 9. [Udemy - Learn Python for Total Beginners](https://www.udemy.com/course/python-3-for-total-beginners/l)
 10. [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+11. [Kaggle - Python](https://www.kaggle.com/learn/python)
 
 ## YouTube Courses
 1. [freeCodeCamp Learn Python - Full Course for Beginners -  Tutorial](https://youtu.be/rfscVS0vtbw)
