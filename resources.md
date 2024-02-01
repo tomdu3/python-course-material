@@ -27,10 +27,11 @@
 1. [FREE Python Course for Beginners 2024 (13 HOURS) - Code With Josh - Part 1](https://youtu.be/rM-jDeSgOQw)
 2. [Creating Python Games with Pygame 2024 - FREE Python Course Part 2 - Code With Josh](https://youtu.be/5fGHothN_lg)
 3. [freeCodeCamp Learn Python - Full Course for Beginners -  Tutorial](https://youtu.be/rfscVS0vtbw)
-4. [Bro Code Python Course](https://youtu.be/XKHEtdqhLK8)
-5. [Network Chuck Python Course](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)
-6. [Python for Beginners - Learn Python in 1 Hour - Programming with Mosh](https://youtu.be/kqtD5dpn9C8)
-7. [Kevin Stratvert - Python for Beginners Tutorial](https://youtu.be/b093aqAZiPU)
+4. [freeCodeCamp Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
+5. [Bro Code Python Course](https://youtu.be/XKHEtdqhLK8)
+6. [Network Chuck Python Course](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)
+7. [Python for Beginners - Learn Python in 1 Hour - Programming with Mosh](https://youtu.be/kqtD5dpn9C8)
+8. [Kevin Stratvert - Python for Beginners Tutorial](https://youtu.be/b093aqAZiPU)
 
 ## Online Tutorials
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
