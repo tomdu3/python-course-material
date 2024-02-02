@@ -28,10 +28,13 @@
 2. [Creating Python Games with Pygame 2024 - FREE Python Course Part 2 - Code With Josh](https://youtu.be/5fGHothN_lg)
 3. [freeCodeCamp Learn Python - Full Course for Beginners -  Tutorial](https://youtu.be/rfscVS0vtbw)
 4. [freeCodeCamp Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
-5. [Bro Code Python Course](https://youtu.be/XKHEtdqhLK8)
-6. [Network Chuck Python Course](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)
-7. [Python for Beginners - Learn Python in 1 Hour - Programming with Mosh](https://youtu.be/kqtD5dpn9C8)
-8. [Kevin Stratvert - Python for Beginners Tutorial](https://youtu.be/b093aqAZiPU)
+5. [2024 FULL PYTHON BEGINNER COURSE 🐍🐍🐍](https://youtu.be/0vVIJcOsMb4)
+6. [Bro Code Python Course](https://youtu.be/XKHEtdqhLK8)
+7. [Network Chuck Python Course](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)
+8. [Python for Beginners - Learn Python in 1 Hour - Programming with Mosh](https://youtu.be/kqtD5dpn9C8)
+9. [Kevin Stratvert - Python for Beginners Tutorial](https://youtu.be/b093aqAZiPU)
+10. [Pygame Platformer Tutorial - Full Course](https://youtu.be/2gABYM5M0ww)
+11. [Object Oriented Programming with Python - Full Course for Beginners](https://youtu.be/Ej_02ICOIgs)
 
 ## Online Tutorials
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -59,6 +62,7 @@
 4. [Git & GitHub Tutorial for Beginners](https://youtu.be/3RjQznt-8kE?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 5. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
 6. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
+7. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
 
 ### Articles and Other Resources
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
