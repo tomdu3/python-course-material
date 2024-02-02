@@ -63,6 +63,7 @@
 5. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
 6. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
 7. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
+8. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 ### Articles and Other Resources
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
