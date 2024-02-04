@@ -1,14 +1,13 @@
 # Introduction to Python Programming
 
-## Title
+- TODO: Description
+
 
 ## Online Documentation and Reference
 [Official Python Website and Documentation](https://www.python.org/)
 
 
-
-## Online Courses
-
+## Online Courses on Python
 
 1. [Python for Absolute Beginners in 2024 (Josh)](https://www.zerotoknowing.com/courses/pythonforbeginners)
 2. [PY4E - Python for Everybody](https://www.py4e.com/)
@@ -23,7 +22,9 @@
 11. [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 12. [Kaggle - Python](https://www.kaggle.com/learn/python)
 
-## YouTube Courses
+
+## YouTube Courses on Python
+
 1. [FREE Python Course for Beginners 2024 (13 HOURS) - Code With Josh - Part 1](https://youtu.be/rM-jDeSgOQw)
 2. [Creating Python Games with Pygame 2024 - FREE Python Course Part 2 - Code With Josh](https://youtu.be/5fGHothN_lg)
 3. [freeCodeCamp Learn Python - Full Course for Beginners -  Tutorial](https://youtu.be/rfscVS0vtbw)
@@ -36,7 +37,9 @@
 10. [Pygame Platformer Tutorial - Full Course](https://youtu.be/2gABYM5M0ww)
 11. [Object Oriented Programming with Python - Full Course for Beginners](https://youtu.be/Ej_02ICOIgs)
 
-## Online Tutorials
+
+## Online Tutorials on Python
+
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 2. [Python Simply Easy Learning](https://www.tutorialspoint.com/python/index.htm)
 3. [Alpha Coding Skills - Python - Tutorial](https://www.alphacodingskills.com/python/python-tutorial.php)
@@ -46,12 +49,20 @@
 7. [Learn Python](https://www.learnpython.org/)
 
 
+## Other Online Resources on Python
 
-## Online Resources
 1. [The Hitchhicker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 2. [Real Python](https://realpython.com/)
 3. [Code with Josh Newsletters](https://thenerdnook.substack.com/?r=1bcnpk&utm_campaign=referrals-subscribe-page-share-screen&utm_medium=web)
-<hr>
+
+---
+
+
+## Resources on the IDEs
+[Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
+
+
+
 
 ## Git and GitHub
 
@@ -64,6 +75,9 @@
 6. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
 7. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
 8. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
+
+
+###
 
 ### Articles and Other Resources
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
