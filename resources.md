@@ -41,12 +41,13 @@
 ## Online Tutorials on Python
 
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-2. [Python Simply Easy Learning](https://www.tutorialspoint.com/python/index.htm)
-3. [Alpha Coding Skills - Python - Tutorial](https://www.alphacodingskills.com/python/python-tutorial.php)
-4. [Full Stack Python](https://www.fullstackpython.com/)
-5. [Python Spot](https://pythonspot.com/)
-6. [A Byte of Python](https://python.swaroopch.com/)
-7. [Learn Python](https://www.learnpython.org/)
+2. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
+3. [Python Simply Easy Learning](https://www.tutorialspoint.com/python/index.htm)
+4. [Alpha Coding Skills - Python - Tutorial](https://www.alphacodingskills.com/python/python-tutorial.php)
+5. [Full Stack Python](https://www.fullstackpython.com/)
+6. [Python Spot](https://pythonspot.com/)
+7. [A Byte of Python](https://python.swaroopch.com/)
+8. [Learn Python](https://www.learnpython.org/)
 
 
 ## Other Online Resources on Python
