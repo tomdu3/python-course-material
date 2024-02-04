@@ -60,7 +60,11 @@
 
 ## Resources on the IDEs
 [Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
-
+[Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
+[Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
+[This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
+[My Pulsar Python Setup](https://youtu.be/PjAgZu8moL4)
+[How to Use PyCharm](https://youtu.be/clEuRR9JQJI)
 
 
 
@@ -68,13 +72,14 @@
 
 ### Youtube Tutorials
 1. [Learn Git & @GitHub — Full course for beginners [2024] ](https://youtu.be/YCQQh6cq1tA)
-2. [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw)
-3. [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
-4. [Git & GitHub Tutorial for Beginners](https://youtu.be/3RjQznt-8kE?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
-5. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
-6. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
-7. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
-8. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
+2. [world's shortest GIT / GITHUB tutorial](https://youtu.be/eauuuIbzGjs)
+3. [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw)
+4. [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
+5. [Git & GitHub Tutorial for Beginners](https://youtu.be/3RjQznt-8kE?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+6. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
+7. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
+8. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
+9. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 
 ###
