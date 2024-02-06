@@ -61,18 +61,19 @@
 
 ## Resources on the IDEs
 ### Local IDEs
-[Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
-[Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
-[Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
-[This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
-[My Pulsar Python Setup](https://youtu.be/PjAgZu8moL4)
-[How to Use PyCharm](https://youtu.be/clEuRR9JQJI)
+- [Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
+- [Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
+- [Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
+- [This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
+- [My Pulsar Python Setup](https://youtu.be/PjAgZu8moL4)
+- [How to Use PyCharm](https://youtu.be/clEuRR9JQJI)
 
 ### Cloud IDEs
-[AWS Cloud 9 and Github workflow](https://youtu.be/XMWIIx4XZT0)
-[REPLIT](https://replit.com/)
-[GITPOD - 50 hours/month free](https://www.gitpod.io)
-[Google Colaboratory - Jupyter Notebook](https://colab.research.google.com/)
+- [AWS Cloud 9 and Github workflow](https://youtu.be/XMWIIx4XZT0)
+- [REPLIT](https://replit.com/)
+- [Trinket](https://trinket.io/)
+- [GITPOD - 50 hours/month free](https://www.gitpod.io)
+- [Google Colaboratory - Jupyter Notebook](https://colab.research.google.com/)
 
 
 ## Git and GitHub
