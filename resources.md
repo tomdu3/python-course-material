@@ -60,6 +60,7 @@
 
 
 ## Resources on the IDEs
+### Local IDEs
 [Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
 [Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
 [Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
@@ -67,25 +68,36 @@
 [My Pulsar Python Setup](https://youtu.be/PjAgZu8moL4)
 [How to Use PyCharm](https://youtu.be/clEuRR9JQJI)
 
+### Cloud IDEs
+[AWS Cloud 9 and Github workflow](https://youtu.be/XMWIIx4XZT0)
+[REPLIT](https://replit.com/)
+[GITPOD - 50 hours/month free](https://www.gitpod.io)
+[Google Colaboratory - Jupyter Notebook](https://colab.research.google.com/)
 
 
 ## Git and GitHub
 
 ### Youtube Tutorials
-1. [Learn Git & @GitHub — Full course for beginners [2024] ](https://youtu.be/YCQQh6cq1tA)
-2. [world's shortest GIT / GITHUB tutorial](https://youtu.be/eauuuIbzGjs)
-3. [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw)
-4. [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
-5. [Git & GitHub Tutorial for Beginners](https://youtu.be/3RjQznt-8kE?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
-6. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
-7. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
-8. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
-9. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
+1. [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
+2. [Learn Git & @GitHub — Full course for beginners [2024] ](https://youtu.be/YCQQh6cq1tA)
+3. [world's shortest GIT / GITHUB tutorial](https://youtu.be/eauuuIbzGjs)
+4. [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw)
+5. [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
+6. [Git & GitHub Tutorial for Beginners](https://youtu.be/3RjQznt-8kE?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+7. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
+8. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
+9. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
+10. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 
-###
+### Books, Articles and Other Resources
 
-### Articles and Other Resources
+#### Books
+1. [Dr. Charles R. Severance: Python for Everybody](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+2. [Free Computer Books Collection on Python](https://freecomputerbooks.com/top-python-books.html)
+3. [Bedford Computing: Collection of Books on Python](https://bedford-computing.co.uk/learning/python/python-books/)
+
+#### Articles
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 2. [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 3. [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
