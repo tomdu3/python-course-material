@@ -90,9 +90,14 @@
 10. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
 
 
-###
+### Books, Articles and Other Resources
 
-### Articles and Other Resources
+#### Books
+1. [Dr. Charles R. Severance: Python for Everybody](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+2. [Free Computer Books Collection on Python](https://freecomputerbooks.com/top-python-books.html)
+3. [Bedford Computing: Collection of Books on Python](https://bedford-computing.co.uk/learning/python/python-books/)
+
+#### Articles
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 2. [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 3. [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
