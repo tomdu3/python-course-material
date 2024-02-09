@@ -61,18 +61,20 @@
 
 ## Resources on the IDEs
 ### Local IDEs
-[Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
-[Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
-[Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
-[This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
-[My Pulsar Python Setup](https://youtu.be/PjAgZu8moL4)
-[How to Use PyCharm](https://youtu.be/clEuRR9JQJI)
+- [My Python Development Environment Setup - Full Tutorial](https://youtu.be/qI3P7zMMsgY)
+- [Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
+- [Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
+- [Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
+- [This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
+- [My Pulsar Python Setup](https://youtu.be/PjAgZu8moL4)
+- [How to Use PyCharm](https://youtu.be/clEuRR9JQJI)
 
 ### Cloud IDEs
-[AWS Cloud 9 and Github workflow](https://youtu.be/XMWIIx4XZT0)
-[REPLIT](https://replit.com/)
-[GITPOD - 50 hours/month free](https://www.gitpod.io)
-[Google Colaboratory - Jupyter Notebook](https://colab.research.google.com/)
+- [AWS Cloud 9 and Github workflow](https://youtu.be/XMWIIx4XZT0)
+- [REPLIT](https://replit.com/)
+- [Trinket](https://trinket.io/)
+- [GITPOD - 50 hours/month free](https://www.gitpod.io)
+- [Google Colaboratory - Jupyter Notebook](https://colab.research.google.com/)
 
 
 ## Git and GitHub
@@ -96,6 +98,7 @@
 1. [Dr. Charles R. Severance: Python for Everybody](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 2. [Free Computer Books Collection on Python](https://freecomputerbooks.com/top-python-books.html)
 3. [Bedford Computing: Collection of Books on Python](https://bedford-computing.co.uk/learning/python/python-books/)
+4. [Welcome to Python for you and me](https://pymbook.readthedocs.io/en/latest/)
 
 #### Articles
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
