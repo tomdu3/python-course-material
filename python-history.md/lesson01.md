@@ -1,0 +1,101 @@
+# Creating Code with Python
+
+## Introduction
+
+###  Machine language vs. high-level language
+*From Cisco Python Essentials 1 Course*
+[https://www.netacad.com/courses/programming/pcap-programming-essentials-python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
+
+The IL is, in fact, **the alphabet of a machine language**. This is the simplest and most primary set of symbols we can use to give commands to a computer. It's the computer's mother tongue.
+
+Unfortunately, this mother tongue is a far cry from a human mother tongue. We both (computers and humans) need something else, a common language for computers and humans, or a bridge between the two different worlds.
+
+We need a language in which humans can write their programs and a language that computers may use to execute the programs, one that is far more complex than machine language and yet far simpler than natural language.
+
+Such languages are often called high-level programming languages. They are at least somewhat similar to natural ones in that they use symbols, words and conventions readable to humans. These languages enable humans to express commands to computers that are much more complex than those offered by ILs.
+
+A program written in a high-level programming language is called a **source code** (in contrast to the machine code executed by computers). Similarly, the file containing the source code is called the **source file**.
+
+### Compilation vs. Interpretation
+
+**Compilation** – the source program is translated once (however, this act must be repeated each time you modify the source code) by getting a file (e.g., an .exe file if the code is intended to be run under MS Windows) containing the machine code. Now you can distribute the file worldwide; the program that performs this translation is called a compiler or translator.
+
+**Interpretation** – you (or any user of the code) can translate the source program each time it has to be run. The program performing this kind of transformation is called an interpreter, as it interprets the code every time it is intended to be executed. It also means that you cannot just distribute the source code as-is, because the end-user also needs the interpreter to execute it.
+
+<table>
+   <tbody>
+      <tr>
+         <td></td>
+         <th>Compilation</th>
+         <th>Interpretation</th>
+      </tr>
+      <tr>
+         <th>
+            <div style="transform: rotate(-90deg);">Advantages</div>
+         </th>
+         <td>
+            <ul style="list-style: none; padding-left: 20px;">
+               <li style="margin-bottom: 5px"><span style="color: green; margin-right: 5px"><b>✓</b></span>the execution of the translated code is usually faster;</li>
+               <li style="margin-bottom: 5px"><span style="color: green; margin-right: 5px"><b>✓</b></span>only the user has to have the compiler – the end-user may use the code without it;</li>
+               <li style="margin-bottom: 5px"><span style="color: green; margin-right: 5px"><b>✓</b></span>the translated code is stored using machine language – as it is very hard to understand it, your own inventions and programming tricks are likely to remain your secret.</li>
+            </ul>
+         </td>
+         <td>
+            <ul style="list-style: none; padding-left: 20px;">
+               <li style="margin-bottom: 5px"><span style="color: green; margin-right: 5px"><b>✓</b></span>you can run the code as soon as you complete it – there are no additional phases of translation;</li>
+               <li style="margin-bottom: 5px"><span style="color: green; margin-right: 5px"><b>✓</b></span>the code is stored using programming language, not machine language - this means that it can be run on computers using different machine languages; you don't compile your code separately for each different architecture.</li>
+            </ul>
+         </td>
+      </tr>
+      <tr>
+         <th>
+            <div style="transform: rotate(-90deg);">Disadvantages</div>
+         </th>
+         <td>
+            <ul style="list-style: none; padding-left: 20px;">
+               <li style="margin-bottom: 5px"><span style="color: red; margin-right: 5px"><b>❌</b></span>the compilation itself may be a very time-consuming process – you may not be able to run your code immediately after making an amendment;</li>
+               <li style="margin-bottom: 5px"><span style="color: red; margin-right: 5px"><b>❌</b></span>you have to have as many compilers as hardware platforms you want your code to be run on.</li>
+            </ul>
+         </td>
+         <td>
+            <ul style="list-style: none; padding-left: 20px;">
+               <li style="margin-bottom: 5px"><span style="color: red; margin-right: 5px"><b>❌</b></span>don't expect interpretation to ramp up your code to high speed - your code will share the computer's power with the interpreter, so it can't be really fast;</li>
+               <li style="margin-bottom: 5px"><span style="color: red; margin-right: 5px"><b>❌</b></span>both you and the end user have to have the interpreter to run your code.</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### What does the interpreter do?
+
+Let's assume once more that you have written a program. Now, it exists as a computer file: a computer program is actually a piece of text, so the source code is usually placed in text files.
+
+Note: it has to be pure text, without any decorations like different fonts, colors, embedded images or other media. Now you have to invoke the interpreter and let it read your source file.
+
+The interpreter reads the source code in a way that is common in Western culture: from top to bottom and from left to right. There are some exceptions - they'll be covered later in the course.
+
+First of all, the interpreter checks if all subsequent lines are correct (using the four aspects covered earlier).
+
+If the compiler finds an error, it finishes its work immediately. The only result in this case is an error message.
+
+
+
+You may ask now: which is better? The "compiling" model or the "interpreting" model? There is no obvious answer. If there had been, one of these models would have ceased to exist a long time ago. Both of them have their advantages and their disadvantages.
+
+### What does this all mean for you?
+
+Python is an **interpreted language**. This means that it inherits all the described advantages and disadvantages. Of course, it adds some of its unique features to both sets.
+If you want to program in Python, you'll need the **Python interpreter**. You won't be able to run your code without it. Fortunately, **Python is free**. This is one of its most important advantages.
+Due to historical reasons, languages designed to be utilized in the interpretation manner are often called **scripting languages**, while the source programs encoded using them are called **scripts**. Okay, let's meet Python.
+
+## Python
+### Short History of Python
+*From geeksofgeeks.org*
+[https://www.geeksforgeeks.org/history-of-python/](https://www.geeksforgeeks.org/history-of-python/)
+
+Python was conceived in the late 1980s by **Guido van Rossum** at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language (itself inspired by SETL), capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989. Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his "permanent vacation" from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected Brett Cannon, Nick Coghlan, Barry Warsaw, Carol Willing and Van Rossum to a five-member "Steering Council" to lead the project.
+
+The inspiration for the name came from the BBC’s TV Show – ‘Monty Python’s Flying Circus’, as he was a big fan of the TV show and also he wanted a short, unique and slightly mysterious name for his invention and hence he named it Python!
+
+he language was finally released in 1991. When it was released, it used a lot fewer codes to express the concepts, when we compare it with Java, C++ & C. Its design philosophy was quite good too. Its main objective is to provide code readability and advanced developer productivity. When it was released, it had more than enough capability to provide classes with inheritance, several core data types of exception handling and functions. 
