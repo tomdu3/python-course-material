@@ -48,6 +48,9 @@
 6. [Python Spot](https://pythonspot.com/)
 7. [A Byte of Python](https://python.swaroopch.com/)
 8. [Learn Python](https://www.learnpython.org/)
+9. [Coding Specs -  Python Tutorial Series](https://youtube.com/playlist?list=PLXsIzCjwd5L5CDQ0aGO-6xT_Rza3MxLiW&si=LtBeKmVMWm9eIXv6)
+10. [Coding Specs - Python Challenges](https://youtube.com/playlist?list=PLXsIzCjwd5L4HmBqBTeITGY1eEHlDdqYW&si=qooppWFneCi9OlHe)
+
 
 
 ## Other Online Resources on Python
