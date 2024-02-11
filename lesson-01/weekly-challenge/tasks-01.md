@@ -31,17 +31,19 @@
 - Your code should ask user for:
     a. First Name
     b. Last Name
-    c. Date of Birth
+    c. Age
     d. Country
     e. Place
     f. Hobbies
+    g. Money
 - Run the program using the command line.
 - The output should be:
   ```
-  Hello! I am `First Name` `Last Name`. I was born on `Date of Birth` in `Country`, `Place`. I love `Hobbies`.
-  It has passed `x` days since I was born.
+  Hello! I am `First Name` `Last Name`. I am `Age`. I am living in `Place`, `Country`. I love `Hobbies`.
+  It has passed `x` days since I was born. I have $`Money` in my bank account.
   ```
-    where `x` is the number of days since the user was born.
+    where `x` is the number of days since the user was born. You will need to calculate the number of days since the user was born.
+    `Money` should be a floating point number with 2 decimal places.
 - Make a screenshot of the code and the output and save it as `bio` image file.
 
 Once you have completed the tasks, submit the following files by attaching them to a google form for submission of the challenge:
