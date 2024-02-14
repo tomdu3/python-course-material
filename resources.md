@@ -51,6 +51,17 @@
 9. [Coding Specs -  Python Tutorial Series](https://youtube.com/playlist?list=PLXsIzCjwd5L5CDQ0aGO-6xT_Rza3MxLiW&si=LtBeKmVMWm9eIXv6)
 10. [Coding Specs - Python Challenges](https://youtube.com/playlist?list=PLXsIzCjwd5L4HmBqBTeITGY1eEHlDdqYW&si=qooppWFneCi9OlHe)
 
+## Practice Python
+1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
+2. [Checkio](https://checkio.org/) - Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript 
+3. [Python Challenge](http://www.pythonchallenge.com/) - a bit advanced and hard series of Python challenges
+4. [Code Wars](https://www.codewars.com/) - another challenge site
+5. [Code Combat](https://codecombat.com/play) - play game by coding
+6. [W3Schools - Python](https://www.w3schools.com/python/python_exercises.asp) - tutorials and exercises
+7. [Hacker Rank - Python](https://www.hackerrank.com/domains/python/py-introduction/difficulty/all/page/1) - great for practicing a wide range of Python problems. They have a 30-day coding challenge
+
+
+
 
 
 ## Other Online Resources on Python
