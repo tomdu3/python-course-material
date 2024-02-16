@@ -4,9 +4,7 @@ def prime(num):
             return False
     return True
 
+
 print(prime(7))
 print(prime(9))
 print(prime(101))
-    
-
-
