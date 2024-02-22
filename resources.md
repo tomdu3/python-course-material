@@ -39,7 +39,6 @@
 
 
 ## Online Tutorials on Python
-
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 2. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
 3. [Python Simply Easy Learning](https://www.tutorialspoint.com/python/index.htm)
@@ -59,10 +58,6 @@
 5. [Code Combat](https://codecombat.com/play) - play game by coding
 6. [W3Schools - Python](https://www.w3schools.com/python/python_exercises.asp) - tutorials and exercises
 7. [Hacker Rank - Python](https://www.hackerrank.com/domains/python/py-introduction/difficulty/all/page/1) - great for practicing a wide range of Python problems. They have a 30-day coding challenge
-
-
-
-
 
 ## Other Online Resources on Python
 
@@ -118,3 +113,8 @@
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 2. [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 3. [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+
+### Programming In General
+
+1. [Best Games to Teach you - HOW TO CODE](https://youtu.be/A8SythA_P_Udd)
