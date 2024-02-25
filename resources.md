@@ -36,6 +36,7 @@
 9. [Kevin Stratvert - Python for Beginners Tutorial](https://youtu.be/b093aqAZiPU)
 10. [Pygame Platformer Tutorial - Full Course](https://youtu.be/2gABYM5M0ww)
 11. [Object Oriented Programming with Python - Full Course for Beginners](https://youtu.be/Ej_02ICOIgs)
+12. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
 
 
 ## Online Tutorials on Python
@@ -49,6 +50,8 @@
 8. [Learn Python](https://www.learnpython.org/)
 9. [Coding Specs -  Python Tutorial Series](https://youtube.com/playlist?list=PLXsIzCjwd5L5CDQ0aGO-6xT_Rza3MxLiW&si=LtBeKmVMWm9eIXv6)
 10. [Coding Specs - Python Challenges](https://youtube.com/playlist?list=PLXsIzCjwd5L4HmBqBTeITGY1eEHlDdqYW&si=qooppWFneCi9OlHe)
+11. [Python 2024: Ultimate Crash Course for Beginners | Learn Python Programming from Scratch!](https://youtu.be/GZVfBqS4ep8)
+12. [Doggy Styles - Python Basics](https://youtube.com/playlist?list=PL2EW-qt0yFjaqrHxAcqpK-mkhaQBaBx0k&si=fWHUvPddboTerAjh)
 
 ## Practice Python
 1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
