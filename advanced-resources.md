@@ -8,8 +8,12 @@
 
 ## Deployment
 - [Host your app 24/7 with Render (Free and Unstable)](https://youtu.be/FVpEDSlGG5k)
+- [How To Host Your Bot Online 24/7 For FREE With Python (Telegram, Discord, Etc)](https://youtu.be/2TI-tCVhe9k)
 
+## GUI
+[Tkinter Data Entry Form tutorial for beginners - Python GUI project [responsive layout]](https://youtu.be/vusUfPBsggw)
 
+[Python Coding for Beginner: Creating Comboboxes with Tkinter]()
 ## Leetcode
 
 - [Leetcode](https://leetcode.com/)
