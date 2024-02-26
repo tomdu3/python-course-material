@@ -37,7 +37,7 @@
 10. [Pygame Platformer Tutorial - Full Course](https://youtu.be/2gABYM5M0ww)
 11. [Object Oriented Programming with Python - Full Course for Beginners](https://youtu.be/Ej_02ICOIgs)
 12. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
-
+13. [Python Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/B9nFMZIYQl0)
 
 ## Online Tutorials on Python
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
