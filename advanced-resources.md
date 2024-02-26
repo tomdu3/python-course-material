@@ -2,7 +2,7 @@
 
 ## Automation
 
-[John Watson Rooney Channel](https://www.youtube.com/c/JohnWatsonRooney)
+- [John Watson Rooney Channel](https://www.youtube.com/c/JohnWatsonRooney)
 - [Automate your job with Python](https://youtu.be/qYSWWGz9Z6s)
 
 
@@ -11,9 +11,9 @@
 - [How To Host Your Bot Online 24/7 For FREE With Python (Telegram, Discord, Etc)](https://youtu.be/2TI-tCVhe9k)
 
 ## GUI
-[Tkinter Data Entry Form tutorial for beginners - Python GUI project [responsive layout]](https://youtu.be/vusUfPBsggw)
+- [Tkinter Data Entry Form tutorial for beginners - Python GUI project [responsive layout]](https://youtu.be/vusUfPBsggw)
 
-[Python Coding for Beginner: Creating Comboboxes with Tkinter]()
+- [Python Coding for Beginner: Creating Comboboxes with Tkinter]()
 ## Leetcode
 
 - [Leetcode](https://leetcode.com/)
