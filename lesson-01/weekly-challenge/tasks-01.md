@@ -24,6 +24,7 @@
 - Write a simple Python program to print `Hello, World!`. Save it in a file with the name `hello.py`.
 - Run the program using the command line.
 - Make a screenshot of the code and the output and save it as `hello` image file.
+![Example output of hello.png](./hello.png)
 
 ## Task 5: 'Short bio' in Python
 
@@ -45,6 +46,8 @@
     where `x` is the number of days since the user was born. You will need to calculate the number of days since the user was born.
     `Money` should be a floating point number with 2 decimal places.
 - Make a screenshot of the code and the output and save it as `bio` image file.
+
+![Example output of bio.png](./bio.png)
 
 Once you have completed the tasks, submit the following files by attaching them to a google form for submission of the challenge:
 - `hello.py`
