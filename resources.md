@@ -75,6 +75,7 @@
 ### Local IDEs
 - [My Python Development Environment Setup - Full Tutorial](https://youtu.be/qI3P7zMMsgY)
 - [Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
+- [How to Use VS Code as Your Python IDE](https://thenewstack.io/how-to-use-vs-code-as-your-python-ide/)
 - [Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
 - [Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
 - [This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
