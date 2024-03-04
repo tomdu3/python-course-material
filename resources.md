@@ -36,10 +36,10 @@
 9. [Kevin Stratvert - Python for Beginners Tutorial](https://youtu.be/b093aqAZiPU)
 10. [Pygame Platformer Tutorial - Full Course](https://youtu.be/2gABYM5M0ww)
 11. [Object Oriented Programming with Python - Full Course for Beginners](https://youtu.be/Ej_02ICOIgs)
-
+12. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
+13. [Python Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/B9nFMZIYQl0)
 
 ## Online Tutorials on Python
-
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 2. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
 3. [Python Simply Easy Learning](https://www.tutorialspoint.com/python/index.htm)
@@ -50,6 +50,8 @@
 8. [Learn Python](https://www.learnpython.org/)
 9. [Coding Specs -  Python Tutorial Series](https://youtube.com/playlist?list=PLXsIzCjwd5L5CDQ0aGO-6xT_Rza3MxLiW&si=LtBeKmVMWm9eIXv6)
 10. [Coding Specs - Python Challenges](https://youtube.com/playlist?list=PLXsIzCjwd5L4HmBqBTeITGY1eEHlDdqYW&si=qooppWFneCi9OlHe)
+11. [Python 2024: Ultimate Crash Course for Beginners | Learn Python Programming from Scratch!](https://youtu.be/GZVfBqS4ep8)
+12. [Doggy Styles - Python Basics](https://youtube.com/playlist?list=PL2EW-qt0yFjaqrHxAcqpK-mkhaQBaBx0k&si=fWHUvPddboTerAjh)
 
 ## Practice Python
 1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
@@ -59,10 +61,6 @@
 5. [Code Combat](https://codecombat.com/play) - play game by coding
 6. [W3Schools - Python](https://www.w3schools.com/python/python_exercises.asp) - tutorials and exercises
 7. [Hacker Rank - Python](https://www.hackerrank.com/domains/python/py-introduction/difficulty/all/page/1) - great for practicing a wide range of Python problems. They have a 30-day coding challenge
-
-
-
-
 
 ## Other Online Resources on Python
 
@@ -77,6 +75,7 @@
 ### Local IDEs
 - [My Python Development Environment Setup - Full Tutorial](https://youtu.be/qI3P7zMMsgY)
 - [Visual Studio Code: Complete Tutorial for Beginners in 2024.](https://youtu.be/SGbBQV9steE)
+- [How to Use VS Code as Your Python IDE](https://thenewstack.io/how-to-use-vs-code-as-your-python-ide/)
 - [Learn How to Use Sublime Text: A Quick Overview](https://youtu.be/DUZXBLz2gvo)
 - [Make Your Sublime Text Elegant! ✨](https://youtu.be/PAMBlYHGfc8)
 - [This Text Editor Will Replace VSCode - Focus](https://youtu.be/AhPm8pv6dEs)
@@ -118,3 +117,8 @@
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 2. [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 3. [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+
+### Programming In General
+
+1. [Best Games to Teach you - HOW TO CODE](https://youtu.be/A8SythA_P_Udd)
