@@ -1,3 +1,13 @@
+# Errors printing string
+
+print("Hello, Python!")
+# print("Tom")
+# print(Tom)
+# print"Tom"
+# print('Tom')
+# print("Tom") print("Python")
+
+
 # theofficefacts.py
 
 ages = {
@@ -11,3 +21,5 @@ ages = {
 }
 
 print(f'Michael is {ages["michael"]} years old.')
+
+
