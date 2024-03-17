@@ -3,6 +3,16 @@
 
 In this lesson we are learning about the basics in Python
 
+## Some initial terminology
+
+- **value** is a piece of data. There are different types of values.
+- **type** is the type of the value - int, float, string, bool, None
+- **statement** is a line of code, or rather a unite of code that the Python interpreter can execute.
+- **expression** is a statement that returns a value. It is a combination of calutes, variables and operators.
+- **operator** is a symbol or combination of symbols that allows you to perform a specific operation.
+
+We will learn more about these terms later.
+
 ## First code
 
 
