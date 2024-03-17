@@ -1,4 +1,4 @@
-# Introduction to Python: Lesson 0
+# Introduction to Python: Exercises
 ---
 
 In this lesson we are learning about the basics in Python
@@ -200,7 +200,7 @@ print(calculate_sum)
 ![](./arithmetic-operation-in-python.png)
 
 ### Order of operations - PEMDAS
-![](./PEMDAS_trans-1200x429.webp)
+![](./pemdas.jpg)
 
 
 In programming, this concept of precedence and the ability to override that precedence using parentheses is used not only in mathematical expressions, but also in expressions using logical operators such as AND, OR and NOT.
