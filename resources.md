@@ -53,6 +53,7 @@
 10. [Coding Specs - Python Challenges](https://youtube.com/playlist?list=PLXsIzCjwd5L4HmBqBTeITGY1eEHlDdqYW&si=qooppWFneCi9OlHe)
 11. [Python 2024: Ultimate Crash Course for Beginners | Learn Python Programming from Scratch!](https://youtu.be/GZVfBqS4ep8)
 12. [Doggy Styles - Python Basics](https://youtube.com/playlist?list=PL2EW-qt0yFjaqrHxAcqpK-mkhaQBaBx0k&si=fWHUvPddboTerAjh)
+13. [9 HOURS of Python Projects - From Beginner to Advanced](https://youtu.be/NpmFbWO6HPU)
 
 ## Practice Python
 1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
