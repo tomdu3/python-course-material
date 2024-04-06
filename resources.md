@@ -40,6 +40,7 @@
 13. [Python Tutorial for Beginners - Full Course in 12 Hours (2022)](https://youtu.be/B9nFMZIYQl0)
 
 ## Online Tutorials on Python
+
 1. [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 2. [The complete guide to Python](https://youtu.be/mDKM-JtUhhc)
 3. [Python Simply Easy Learning](https://www.tutorialspoint.com/python/index.htm)
@@ -67,6 +68,7 @@
 1. [The Hitchhicker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 2. [Real Python](https://realpython.com/)
 3. [Code with Josh Newsletters](https://thenerdnook.substack.com/?r=1bcnpk&utm_campaign=referrals-subscribe-page-share-screen&utm_medium=web)
+4. [How to Learn Python Effectively: 8-Week Learning Plan](https://proflead.dev/posts/how-to-learn-python-effectively/)
 
 ---
 
