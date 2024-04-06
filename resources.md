@@ -62,6 +62,7 @@
 5. [Code Combat](https://codecombat.com/play) - play game by coding
 6. [W3Schools - Python](https://www.w3schools.com/python/python_exercises.asp) - tutorials and exercises
 7. [Hacker Rank - Python](https://www.hackerrank.com/domains/python/py-introduction/difficulty/all/page/1) - great for practicing a wide range of Python problems. They have a 30-day coding challenge
+8. [Exercism - Python](https://exercism.org/tracks/python) - great for practicing a wide range of Python problems
 
 ## Other Online Resources on Python
 
