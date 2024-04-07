@@ -26,13 +26,10 @@
  # AI Resources
 
  ## Python
+ 
 - [Python AI with OpenAI](https://openai.com/blog/python-ai/)
-- [Python AI with Google](https://developers.google.com/machine-learning/crash-course/python/)
 - [Python AI with Microsoft](https://docs.microsoft.com/en-us/azure/cognitive-services/python/)
 - [Python AI with Azure](https://docs.microsoft.com/en-us/azure/cognitive-services/python/)
-- [Python AI with IBM](https://www.ibm.com/cloud/learn/python)
-- [Python AI with IBM Watson](https://www.ibm.com/cloud/learn/python)
-- [Python AI with IBM Cloud](https://cloud.ibm.com/docs/ai?topic=ai-python)
 - [Python AI with AWS](https://aws.amazon.com/ai/)
 - [Python AI with Hugging Face](https://huggingface.co/)
 - [Python AI with Google Cloud](https://cloud.google.com/)
