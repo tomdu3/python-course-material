@@ -121,7 +121,7 @@
 1. [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 2. [Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 3. [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
-
+4. [Roadmap to become Full Stack Python Developer](https://www.linkedin.com/pulse/roadmap-become-full-stack-python-developer-roshan-damor-gaysf/?trackingId=gforIuosQxOPZJVZToOGHA%3D%3D)
 
 ### Programming In General
 
