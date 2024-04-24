@@ -107,6 +107,7 @@
 8. [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://youtu.be/DVRQoVRzMIY)
 9. [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=70xhxfaetn2tBEK1)
 10. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://youtu.be/Uszj_k0DGsg)
+11. [Animated Git explanation](https://youtu.be/BIjrKuJGTxw)
 
 
 ### Books, Articles and Other Resources
