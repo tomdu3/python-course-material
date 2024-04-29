@@ -32,5 +32,6 @@ class Teacher(Person):
 t1 = Teacher("Jane", 30, 50000)
 t1.person_details()
 t1.teacher_details()
-# print(t1.__salary) # doesn't work
-print(t1.get_salary()) 
+# print(t1.__salary)  # doesn't work
+print(t1._Teacher__salary)  # works but not recommended
+print(t1.get_salary())
