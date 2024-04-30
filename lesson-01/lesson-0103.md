@@ -78,6 +78,30 @@ print(type(None))
 
 
 ---
+
+### Conversion
+- we can convert one data type to another
+```python
+# convert int to float
+print(float(2))
+# convert int to string
+print(str(2))
+
+# convert float to int
+print(int(2.2))
+# convert float to string
+print(str(2.2))
+
+# round flot to int
+print(round(2.2))
+print(round(2.5))
+
+# convert string to int
+print(int('2'))
+# convert string to float
+print(float('2.2'))
+```
+
 ## Variables
 
 Variables are:
