@@ -240,6 +240,40 @@ print(calculate_sum)
 In programming, this concept of precedence and the ability to override that precedence using parentheses is used not only in mathematical expressions, but also in expressions using logical operators such as AND, OR and NOT.
 For now just remember the order of operations: PEMDAS (Please Excuse My Dear Aunt Sally!)
 
+### Arithmetic of floats
+
+- Python had some issues with float precision. We will not go into details here. But, if you want to learn more about it, check out this [article](https://docs.python.org/3/tutorial/floatingpoint.html).
+
+e.g. 0.1 + 0.2 == 0.3
+False
+
+```python
+0.1 + 0.2
+0.30000000000000004
+```
+
+To fix this, we can use the **decimal** module.
+
+```python
+from decimal import Decimal
+Decimal(0.1) + Decimal(0.2)
+Decimal('0.3')
+```
+
+We could also use the **math** module.
+```python
+import math
+math.isclose(0.1 + 0.2, 0.3)
+True
+```
+
+The common solution is to use rounding functions.
+
+```python
+round(0.1 + 0.2, 2)
+0.3
+```
+
 
 ### Comparison or Relational Operators
 
