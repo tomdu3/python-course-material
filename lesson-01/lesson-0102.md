@@ -1,4 +1,4 @@
-# Python - Lesson 02
+# Python - Lesson 0102
 
 ## Interpreted language
 Python is an **interpreted language**. This means that it inherits all the described advantages and disadvantages. Of course, it adds some of its unique features to both sets.

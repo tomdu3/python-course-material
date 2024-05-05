@@ -1,17 +1,7 @@
-# Introduction to Python: Exercises
+# Introduction to Python: Lesson 0
 ---
 
 In this lesson we are learning about the basics in Python
-
-## Some initial terminology
-
-- **value** is a piece of data. There are different types of values.
-- **type** is the type of the value - int, float, string, bool, None
-- **statement** is a line of code, or rather a unite of code that the Python interpreter can execute.
-- **expression** is a statement that returns a value. It is a combination of calutes, variables and operators.
-- **operator** is a symbol or combination of symbols that allows you to perform a specific operation.
-
-We will learn more about these terms later.
 
 ## First code
 
@@ -78,30 +68,6 @@ print(type(None))
 
 
 ---
-
-### Conversion
-- we can convert one data type to another
-```python
-# convert int to float
-print(float(2))
-# convert int to string
-print(str(2))
-
-# convert float to int
-print(int(2.2))
-# convert float to string
-print(str(2.2))
-
-# round flot to int
-print(round(2.2))
-print(round(2.5))
-
-# convert string to int
-print(int('2'))
-# convert string to float
-print(float('2.2'))
-```
-
 ## Variables
 
 Variables are:
@@ -239,32 +205,6 @@ print(calculate_sum)
 
 In programming, this concept of precedence and the ability to override that precedence using parentheses is used not only in mathematical expressions, but also in expressions using logical operators such as AND, OR and NOT.
 For now just remember the order of operations: PEMDAS (Please Excuse My Dear Aunt Sally!)
-
-### Arithmetic of floats
-
-- Python had some issues with float precision. We will not go into details here. But, if you want to learn more about it, check out this [article](https://docs.python.org/3/tutorial/floatingpoint.html).
-
-e.g. 0.1 + 0.2 == 0.3
-False
-
-```python
-0.1 + 0.2
-0.30000000000000004
-```
-
-To fix this, we can use the **math** module.
-```python
-import math
-math.isclose(0.1 + 0.2, 0.3)
-True
-```
-
-The common solution is to use rounding function.
-
-```python
-round(0.1 + 0.2, 2)
-0.3
-```
 
 
 ### Comparison or Relational Operators
@@ -407,5 +347,6 @@ print("Hello World!")
 **Python Docstrings**
 
 Python provides an in-built feature called docstrings for commenting on modules, methods, functions, objects, and classes. They are written in the first line after defining a module, function, method, etc., using three quotation marks (‘’ or “”). If you do not use it in the first line, the interpreter will not take it as a docstring. You can also access docstrings using the __doc__ attribute.
+
 
 
