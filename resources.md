@@ -55,6 +55,8 @@
 11. [Python 2024: Ultimate Crash Course for Beginners | Learn Python Programming from Scratch!](https://youtu.be/GZVfBqS4ep8)
 12. [Doggy Styles - Python Basics](https://youtube.com/playlist?list=PL2EW-qt0yFjaqrHxAcqpK-mkhaQBaBx0k&si=fWHUvPddboTerAjh)
 13. [9 HOURS of Python Projects - From Beginner to Advanced](https://youtu.be/NpmFbWO6HPU)
+14. [Python is Awesome 1](https://youtu.be/lnYaLqaZsiw)
+15. [Python is Awesome 2](https://youtu.be/GyGTFknH1Nw)
 
 ## Practice Python
 1. [Boot Dev](https://www.boot.dev/) - Learn Lessons through playing games
