@@ -72,6 +72,7 @@
 2. [Real Python](https://realpython.com/)
 3. [Code with Josh Newsletters](https://thenerdnook.substack.com/?r=1bcnpk&utm_campaign=referrals-subscribe-page-share-screen&utm_medium=web)
 4. [How to Learn Python Effectively: 8-Week Learning Plan](https://proflead.dev/posts/how-to-learn-python-effectively/)
+5. [10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python?ref=dailydev)
 
 ---
 

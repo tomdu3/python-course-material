@@ -14,6 +14,7 @@
 - [Tkinter Data Entry Form tutorial for beginners - Python GUI project [responsive layout]](https://youtu.be/vusUfPBsggw)
 
 - [Python Coding for Beginner: Creating Comboboxes with Tkinter]()
+
 ## Leetcode
 
 - [Leetcode](https://leetcode.com/)
