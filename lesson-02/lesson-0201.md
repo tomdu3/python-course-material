@@ -390,7 +390,7 @@ print(str[half_index:])
 str = 'Let us slice this string in half'
 
 half = len(str)//2  # this is an int, result of floor division
-print(half)  # this is not an int
+print(half)  # this is an int
 
 print(str[:half])
 print(str[half:])
