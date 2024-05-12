@@ -16,8 +16,8 @@ days = int(age) * 365
 
 # print with f string
 print(f"Hello! I am {first_name} {last_name}. I am {age}. I am living in {place}, {country}. I love {hobbies}.")
-print(f"It has passed {days} days since I was born. I have ${float(money):.2f} in my bank account.")   # 2 decimal places
+print(f"It has passed {days} days since I was born. I have ${float(money):.3f} in my bank account.")   # 2 decimal places
 
-# print without f string
+# # print without f string
 # print("Hello! I am " + first_name + " " + last_name + ". I am " + age + ". I am living in " + place + ", " + country + ". I love " + hobbies + ".")
 # print("It has passed " + str(days) + " days since I was born. I have $" + money + " in my bank account.")   # 2 decimal places
