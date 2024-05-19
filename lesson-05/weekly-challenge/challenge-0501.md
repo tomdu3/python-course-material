@@ -1,5 +1,5 @@
-Group Assignment 2 - Delivery fee calculator
-
+## Weekly Group Assignment 2 - Delivery fee calculator
+![Wolt Logo Cartoon](./docs/dall-e-backend-wolt.png)
 
 ***This is an original task for the position of a Software Engineer Intern at Wolt.*** More details on [my GitHub Repo](https://github.com/tomdu3/delivery-calculator) 
 
