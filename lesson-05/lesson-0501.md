@@ -91,7 +91,7 @@ today = dt.date.today()
 print(today)
 ```
 
-    2024-04-01
+    2024-05-19
 
 
 ### 5.1.2. Importing different kinds of modules
@@ -116,10 +116,32 @@ Third-party modules or packages are the ones that are not included in the standa
 !pip install getch
 ```
 
-    Collecting getch
-      Using cached getch-1.0-cp312-cp312-linux_x86_64.whl
-    Installing collected packages: getch
-    Successfully installed getch-1.0
+    Requirement already satisfied: getch in /home/tom/anaconda3/envs/myenv/lib/python3.12/site-packages (1.0)
+
+
+***From the Module Documentation:***
+
+The getch module does single-char input by providing wrappers for the conio.h library functions getch() (gets a character from user input, no output - this is useful for password input) and getche() (also outputs to the screen), if conio.h does not exist, it uses a stub-library using termios.h and other headers to emulate this behaviour:
+
+```python
+import getch
+# ...
+char = getch.getch() # User input, but not displayed on the screen
+# or
+char = getch.getche() # also displayed on the screen
+```
+
+Hint: On Windows, you can use:
+
+```python
+import msvcrt
+# ...
+char = msvcrt.getch()
+# or, to display it on the screen
+char = msvcrt.getche()
+```
+
+as a standard library alternative to this module
 
 
 
@@ -128,6 +150,40 @@ import getch
 
 print('press a key to continue...')
 getch.getch()
+```
+
+The following code is a sophisticated example of using the getch module so that we can get a single character from the user whether they are on Linux, macOS or Windows.
+
+
+```python
+import sys
+
+try:
+    import getch  # Importing getch for Linux and macOS
+except ImportError:
+    if sys.platform.startswith('win'):
+        import msvcrt  # Importing msvcrt for Windows
+    else:
+        raise ImportError("Unsupported platform")
+
+def get_char():
+    """
+    Get a single character from the user.
+    """
+    if 'getch' in globals():  # Using getch module
+        return getch.getch()
+    elif sys.platform.startswith('win'):  # Using msvcrt for Windows
+        return msvcrt.getch().decode('utf-8')
+    else:
+        raise NotImplementedError("get_char is not implemented for this platform")
+
+# Example usage
+print("Press any key (q to quit):")
+while True:
+    char = get_char()
+    print("You pressed:", char)
+    if char.lower() == 'q':
+        break
 ```
 
 #### 5.1.2.3. User-defined modules
@@ -214,64 +270,6 @@ pandas==1.3.5
 !pip freeze > requirements.txt
 !cat requirements.txt
 ```
-
-    asttokens==2.4.1
-    certifi==2024.2.2
-    charset-normalizer==3.3.2
-    comm==0.2.2
-    contourpy==1.2.1
-    cycler==0.12.1
-    debugpy==1.8.1
-    decorator==5.1.1
-    exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
-    executing==2.0.1
-    fonttools==4.51.0
-    idna==3.7
-    importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1710971335535/work
-    ipykernel==6.29.4
-    ipython==8.24.0
-    jedi==0.19.1
-    joblib==1.4.0
-    jupyter_client==8.6.1
-    jupyter_core==5.7.2
-    kiwisolver==1.4.5
-    matplotlib==3.8.4
-    matplotlib-inline==0.1.7
-    nest-asyncio==1.6.0
-    numpy==1.26.4
-    packaging==24.0
-    pandas==2.2.2
-    parso==0.8.4
-    pexpect==4.9.0
-    pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-    pillow==10.3.0
-    platformdirs==4.2.1
-    prompt-toolkit==3.0.43
-    psutil==5.9.8
-    ptyprocess==0.7.0
-    pure-eval==0.2.2
-    Pygments==2.17.2
-    pyparsing==3.1.2
-    python-dateutil==2.9.0.post0
-    pytz==2024.1
-    pyzmq==26.0.2
-    requests==2.31.0
-    scikit-learn==1.4.2
-    scipy==1.13.0
-    seaborn==0.13.2
-    setuptools==68.2.2
-    six==1.16.0
-    stack-data==0.6.3
-    threadpoolctl==3.5.0
-    tornado==6.4
-    traitlets==5.14.3
-    typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1712329955671/work
-    tzdata==2024.1
-    urllib3==2.2.1
-    wcwidth==0.2.13
-    wheel==0.41.2
-    zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
-
 
 ## 5.2. Files I/O in Python
 
@@ -461,10 +459,10 @@ print(file.read())  # this will throw an error, beacuse file is closed now
 
     ValueError                                Traceback (most recent call last)
 
-    Cell In[12], line 12
+    Cell In[9], line 12
           9     for line in lines:
          10         print(line.strip())
-    ---> 12 print(file.read())
+    ---> 12 print(file.read())  # this will throw an error, beacuse file is closed now
 
 
     ValueError: I/O operation on closed file.
@@ -581,7 +579,7 @@ else:
 print(os.listdir())
 ```
 
-    ['lesson-0501.ipynb', 'shakespeare.txt', 'even.py', 'modules', '__pycache__', 'test.txt']
+    ['even.py', 'lesson-0501.ipynb', 'lesson-0502.ipynb', 'modules', 'shakespeare.txt', 'requirements.txt', 'lesson-0501.md', 'lesson-0502.md', 'weekly-challenge', 'lesson-csv.ipynb', 'sample_data.csv', 'test.txt']
 
 
 ### 5.2.3.3. Create Directory
@@ -625,9 +623,9 @@ os.chdir('lesson-05')
 print(os.getcwd())
 ```
 
-    /home/tom/kreativestorm/python-course-material/lesson-05
-    /home/tom/kreativestorm/python-course-material
-    /home/tom/kreativestorm/python-course-material/lesson-05
+    /devop/tutoring/python-course-material/lesson-05
+    /devop/tutoring/python-course-material
+    /devop/tutoring/python-course-material/lesson-05
 
 
 ### 5.2.3.6. Rename File and Rename Directory
@@ -688,11 +686,77 @@ os.rmdir('test_dir2')
 
 ### 5.2.3.7. Other useful methods of `Os` Module
 
-- We can list all the files in a directory using the `listdir` method.
-- We can create a directory using the `mkdir` method.
-- We can remove a directory using the `rmdir` method.
-- We can get the size of a file using the `getsize` method.
-- We can get the time of last modification of a file using the `getmtime` method.
-- We can get the time of last access of a file using the `getatime` method.
-- We can get the time of creation of a file using the `getctime` method.
-- We can remove a file using the `remove` method.
+The `os` module in Python provides a variety of methods for interacting with the file system. Here are some useful methods along with examples for each:
+
+- **Listing All Files in a Directory**: Use the `listdir` method.
+  ```python
+  import os
+  
+  files = os.listdir('/path/to/directory')
+  print(files)
+  ```
+  Example: If the directory `/path/to/directory` contains files `file1.txt` and `file2.txt`, the output will be `['file1.txt', 'file2.txt']`.
+
+- **Creating a Directory**: Use the `mkdir` method.
+  ```python
+  import os
+  
+  os.mkdir('/path/to/new_directory')
+  ```
+  Example: Creates a new directory named `new_directory` at the specified path.
+
+- **Removing a Directory**: Use the `rmdir` method.
+  ```python
+  import os
+  
+  os.rmdir('/path/to/directory_to_remove')
+  ```
+  Example: Removes the directory named `directory_to_remove` at the specified path. The directory must be empty.
+
+- **Getting the Size of a File**: Use the `getsize` method.
+  ```python
+  import os
+  
+  file_size = os.path.getsize('/path/to/file.txt')
+  print(file_size)
+  ```
+  Example: If `file.txt` is 1024 bytes, the output will be `1024`.
+
+- **Getting the Time of Last Modification of a File**: Use the `getmtime` method.
+  ```python
+  import os
+  import time
+  
+  mod_time = os.path.getmtime('/path/to/file.txt')
+  print(time.ctime(mod_time))
+  ```
+  Example: If the file was last modified on May 19, 2024, the output will be `Sun May 19 12:34:56 2024`.
+
+- **Getting the Time of Last Access of a File**: Use the `getatime` method.
+  ```python
+  import os
+  import time
+  
+  access_time = os.path.getatime('/path/to/file.txt')
+  print(time.ctime(access_time))
+  ```
+  Example: If the file was last accessed on May 19, 2024, the output will be `Sun May 19 12:34:56 2024`.
+
+- **Getting the Time of Creation of a File**: Use the `getctime` method.
+  ```python
+  import os
+  import time
+  
+  creation_time = os.path.getctime('/path/to/file.txt')
+  print(time.ctime(creation_time))
+  ```
+  Example: If the file was created on May 19, 2024, the output will be `Sun May 19 12:34:56 2024`.
+
+- **Removing a File**: Use the `remove` method.
+  ```python
+  import os
+  
+  os.remove('/path/to/file.txt')
+  ```
+  Example: Removes the file named `file.txt` at the specified path.
+```
