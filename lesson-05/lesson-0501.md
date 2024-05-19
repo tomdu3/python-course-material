@@ -1,5 +1,12 @@
 # Lesson 5a: Working with Modules and Files in Python
 
+![Modules in Python](./docs/modules.png)
+
+- [Python Documentation: *Modules*](https://docs.python.org/3/tutorial/modules.html)
+- [Real Python: *Modules*](https://realpython.com/python-modules/)
+- [Learn Python: *Python Modules, Packages, Libraries, and Frameworks*](https://learnpython.com/blog/python-modules-packages-libraries-frameworks/)
+- [Ajeet Verma: *Understanding the Python Ecosystem: Modules, Packages, Libraries, and Frameworks, with a Focus on TensorFlow*](https://medium.com/@ajeet214/understanding-the-python-ecosystem-modules-packages-libraries-and-frameworks-with-a-focus-on-cb4602b5d31c)
+
 ## 5.1. Modules
 
 Modules are a collection of functions that can be used in your program. We have already seen how to import some modules in Python like `random`, `time` and `datetime`.

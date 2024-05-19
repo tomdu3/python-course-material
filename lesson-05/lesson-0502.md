@@ -1,5 +1,7 @@
 # Lesson 5b: Debugging and Error Handling
 
+![Errors in Python](./docs/errors.webp)
+
 [Python Debugging Handbook](https://www.freecodecamp.org/news/python-debugging-handbook/)
 
 Bugs and errors are the most common problems in programming. In this lesson we will learn how to debug and handle errors in Python.
@@ -20,20 +22,8 @@ Python interpreter will indicate these errors to you in the form of an error mes
 
 Syntax errors are errors in the code that you write that are caused by a syntax mistake. For example, if you write a forbidden keyword as a variable name or if you forget to close a bracket, etc. Syntax errors can be easy to find and fix. The interpreter will indicate the line where the syntax error occurred.
 
-
-
-```python
 # syntax error -
 1name = 'John'
-```
-
-
-      Cell In[3], line 2
-        1name = 'John'
-        ^
-    SyntaxError: invalid decimal literal
-
-
 
 
 ```python
