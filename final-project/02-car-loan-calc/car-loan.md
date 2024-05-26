@@ -1,8 +1,10 @@
-# **Final Project: 2. Car-Loan-Calculator**
+# **Final Project 2 - Car-Loan-Calculator**
 
-### Project Summary
+![Car Image](./carai.jpg)
 
-## Customer Request
+## Project Summary
+
+### Customer Request
 
 In the US, you can purchase a car with a loan. The car loan will carry an interest rate, taxes, and fees. Gas prices also influence how much you will pay just to drive each month. I would like you to build me a calculator which runs in the terminal and asks the user for information relevant to their upcoming car purchase. The user should be able to input two vehicles and as much information you think is relevant to the car buying experience.
 
@@ -14,7 +16,9 @@ In the US, you can purchase a car with a loan. The car loan will carry an intere
 - If they want to introduce a down payment or not and that should affect the principal amount of the loan (If down payment, the principal is lower).
 - The final output of the application/program should be a concise printout of all the information the user submitted as well as a recommendation as to why they should buy one over the other and reasons why clearly outlined.
 
-### Component 1: User Input
+### Components Breakdown
+
+#### Component 1: User Input
 
 - Ask the user to input the following information:
   - Vehicle details: make, model, year, mileage, and fuel efficiency (MPG) (some of these you could get from an API or web scraper)
@@ -26,7 +30,7 @@ In the US, you can purchase a car with a loan. The car loan will carry an intere
   - If yes, specify the amount of the down payment
 - Ensure that the user input is valid and handles any errors that may occur during data entry.
 
-### Component 2: Loan Calculation
+#### Component 2: Loan Calculation
 
 - Calculate the monthly loan payment using the formula:
 
@@ -43,7 +47,7 @@ In the US, you can purchase a car with a loan. The car loan will carry an intere
 - If a down payment is included, subtract the down payment from the purchase price to calculate the principal amount.
 - Consider using a library such as `numpy` or `scipy` to simplify the calculation.
 
-### Component 3: Gas Cost Calculation
+#### Component 3: Gas Cost Calculation
 
 - Calculate the monthly gas cost using the formula:
   - G = (fuel efficiency \* total miles driven per year) / 12
@@ -54,13 +58,13 @@ In the US, you can purchase a car with a loan. The car loan will carry an intere
 - Consider using a library such as `math` to simplify the calculation.
 - Also, consider using an `API` or `web scraping` to get the MPG and monthly gas cost for each vehicle.
 
-### Component 4: Repair and Maintenance Cost Calculation
+#### Component 4: Repair and Maintenance Cost Calculation
 
 - Calculate the annual repair and maintenance cost for each vehicle using the user input.
 - Calculate the monthly repair and maintenance cost by dividing the annual cost by 12.
 - Consider using an `API` or `web scraping` to get the repair and maintenance cost for each vehicle.
 
-### Component 5: Recommendation
+#### Component 5: Recommendation
 
 - Based on the calculated costs, provide a recommendation to the user on which vehicle to buy, considering factors such as:
   - Monthly loan payment
@@ -69,12 +73,37 @@ In the US, you can purchase a car with a loan. The car loan will carry an intere
   - Overall cost of ownership
 - Clearly outline the reasons for the recommendation in your output.
 
-### Component 6: Output
+#### Component 6: Output
 
 - Print out all the user input data to the terminal.
 - Provide a concise summary of the calculated costs for each vehicle.
 - Include a recommendation based on your analysis.
 - Follow PEP-8 standards for code formatting and style.
+
+**Suggestions for Using APIs or Web Scraping:**
+
+1. **Rapid API:** Use the Rapid API to fetch data from external sources like gas prices, repair and maintenance costs, etc.
+2. **Websites for Scraping:** If you use web scraping, these are some websites you can consider:
+   - [Caredge.com](https://caredge.com/ranks/maintenance) - For car maintenance costs
+   - [Gasprices.aa.com](https://gasprices.aaa.com/state-gas-price-averages/) - For gas prices
+   - [Fleetnews.co.uk](https://www.fleetnews.co.uk/news/real-world-tests-reveal-cars-with-best-and-worse-mpg-fuel-economy) - For mileage per gallon (MPG) efficiency
+
+**Additional Tips:**
+
+1. **Use Commenting:** Use comments to explain your code and make it easier for others to understand.
+2. **Test Your Code:** Test your code thoroughly to ensure that it works correctly and handles errors properly.
+3. **Follow PEP8 Guidelines:** Follow PEP8 guidelines for coding style and formatting.
+4. **Use Version Control (optional):** Use version control tools such as Git to track changes to your code and collaborate with others.
+5. **External Files For Screen Outputs:** Use external files for screen outputs such as instructions to the user, menu screen, etc. Avoid using multiple line strings when possible.
+6. **Implement Key Press detection and screen cleaning:** Use key press detection and screen cleaning to make the program more responsive and user-friendly. There are differences between Windows and Unix systems, so you would have to detect which system is being used in order to have these options working.
+7. **Make necessary setup files**: Make necessary setup files for your projects:
+   - `.gitignore`
+   - `requirements.txt`
+   - `README.md`
+   - `.env`
+8. **Use Documentation:** Write documentation for your code and explain how it works, which technologies you are using, and features of your code.
+9. **GitHub Upload:** Upload your project to GitHub.
+10. **YouTube Video:** Record and upload a YouTube video of your project where you explain your code and the execution of it.
 
 ### Additional Tips
 
