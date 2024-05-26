@@ -9,6 +9,12 @@
 
 Web scraping is the process of extracting data from websites, often using automated tools like Python scripts. Web scraping involves sending an HTTP request to a website, parsing the HTML response, and extracting specific data elements.
 
+We are going to use the [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library to extract data from the website. To install it, run the following command in your terminal:
+
+```bash
+pip install beautifulsoup4
+```
+
 ### **Step 1: Inspect the Website**
 
 Before we start writing code, let's inspect the website to understand its structure and identify the data we want to extract.
