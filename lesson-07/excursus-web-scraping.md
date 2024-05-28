@@ -1,4 +1,6 @@
 # Web Scraping
+
+![Web Scraping](./webscrapingai.jpeg)
 - [Beautiful Soup Docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [*Python Web Scraping Tutorial: Step By Step*](https://oxylabs.io/blog/python-web-scraping)
 - [Real Python: *Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)

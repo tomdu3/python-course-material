@@ -57,7 +57,7 @@ Rules for calculating a delivery fee
 
 ####  Example 2 (From the Front End Mockup Image): 
 ```json
-{"cart_value": 20, "delivery_distance": 900, "number_of_items": 1, "time": "2021-10-21T13:00:00Z"}
+{"cart_value": 2000, "delivery_distance": 900, "number_of_items": 1, "time": "2021-10-21T13:00:00Z"}
 ```
 
 ##### Field details
