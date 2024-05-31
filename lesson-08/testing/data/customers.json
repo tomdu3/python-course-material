@@ -1,0 +1,50 @@
+[
+  {
+    "fname": "John",
+    "lname": "Doe",
+    "ssn": "123-45-6789",
+    "balance": 123.45
+  },
+  {
+    "fname": "Jane",
+    "lname": "Doe",
+    "ssn": "987-65-4321",
+    "balance": 987.65
+  },
+  {
+    "fname": "Bob",
+    "lname": "Smith",
+    "ssn": "555-55-5555",
+    "balance": 555.55
+  },
+  {
+    "fname": "Alice",
+    "lname": "Smith",
+    "ssn": "111-11-1111",
+    "balance": 111.11
+  },
+  {
+    "fname": "Charlie",
+    "lname": "Brown",
+    "ssn": "222-22-2222",
+    "balance": 222.22
+  },
+  {
+    "fname": "David",
+    "lname": "Brown",
+    "ssn": "333-33-3333",
+    "balance": 333.33
+  },
+  {
+    "fname": "Emily",
+    "lname": "Davis",
+    "ssn": "444-44-4444",
+    "balance": 444.44
+  },
+  {
+    "fname": "Frank",
+    "lname": "Davis",
+    "ssn": "666-66-6666",
+    "balance": 666.66
+  }
+]
