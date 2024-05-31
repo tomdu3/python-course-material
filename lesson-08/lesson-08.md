@@ -332,3 +332,67 @@ Here is the provided sample you can use: [Sample README.md](./README-sample.md)
 - [Readme.so](https://readme.so/) - as the website says - the easiest way to create a README. It is an interactive `README.md` editor.
 - [Example of a good GitHub README](https://github.com/SagarGaniga/How-to-Create-A-Stunning-README.md) - a good README example with different elements.
 - VS Code extension for Automatically Generated Markdown Table of Contents - [Auto Markdown TOC](https://marketplace.visualstudio.com/items?itemName=joffreykern.markdown-toc)
+
+## 8.3. Project Directory Structure
+
+- [The Hitchhiker's Guide to Python: *Structuring Your Project*](https://docs.python-guide.org/writing/structure/)
+- [Tech with Tim: *How To Structure A Programming Project*](https://youtu.be/CAeWjoP525M)
+- [Programming 101: File Structures](https://medium.com/@deshayk/programming-101-file-structures-2e4699ac0fc2)
+- [Guide to Python Project Structure and Packaging](https://medium.com/@joshuale/a-practical-guide-to-python-project-structure-and-packaging-90c7f7a04f95)
+
+### 8.3.1. Recommended Project Structure
+
+There are different ways how to organise your project and you can check the links above to learn more. For your final project, I would propose the following structure:
+
+
+>.
+├── app.py
+├── aux
+│   ├── end.txt
+│   ├── highscores.json
+│   ├── highscores.py
+│   ├── intro.txt
+│   ├── questions.json
+│   ├── quiz.py
+│   └── retrieve_api.py
+├── docs
+│   ├── img
+│   │   └── image.png
+│   └── pdf
+│       └── doc.pdf
+├── README.md
+└── requirements.txt
+
+- in the project's root directory (`/`):
+  - `app.py` - is the main file of your project
+  - `README.md` - is our main project documentation file
+  - `requirements.txt` - contains all the dependencies of your project
+- `aux/` - directory, contains auxiliary scripts and data files
+- `docs/` - directory, contains documentation files (images, PDFs, etc.)
+
+### 8.3.2. Importing Modules from different directories
+
+- [Python Import Module From Different Directory](https://www.geeksforgeeks.org/python-import-module-from-different-directory/)
+
+If we take into consideration the structure we presented in [Recommended Project Structure](#831-recommended-project-structure), we can import modules from a subdirectory this way.
+
+```python
+import aux.highscores as highscores
+```
+- in this case we need to call functions by using `highscores.function_name()`
+or
+
+```python
+from aux import highscores
+```
+- also, in this case we need to call functions by using `highscores.function_name()`
+- 
+or
+
+```python
+from aux.highscores import *
+```
+
+- in this case we need to call functions by using only `function_name()`
+
+

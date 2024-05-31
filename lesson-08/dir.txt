@@ -1,0 +1,19 @@
+.
+├── app.py
+├── aux
+│   ├── end.txt
+│   ├── highscores.json
+│   ├── highscores.py
+│   ├── intro.txt
+│   ├── questions.json
+│   ├── quiz.py
+│   └── retrieve_api.py
+├── docs
+│   ├── img
+│   │   └── image.png
+│   └── pdf
+│       └── doc.pdf
+├── README.md
+└── requirements.txt
+
+5 directories, 12 files
