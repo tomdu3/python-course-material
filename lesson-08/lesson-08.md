@@ -323,3 +323,10 @@ A list of significant changes made to the project, including bug fixes, new feat
 Additional resources and links for more information about the project, including its website, documentation, and social media channels.
 
 Here is the provided sample you can use: [Sample README.md](./README-sample.md)
+
+### 8.2.4. Some Auxiliary Resources
+
+- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) - a good MarkDown Tutorial from GitHub
+- [Readme.so](https://readme.so/) - as the website says - the easiest way to create a README. It is an interactive `README.md` editor.
+- [Example of a good GitHub README](https://github.com/SagarGaniga/How-to-Create-A-Stunning-README.md) - a good README example with different elements.
+- VS Code extension for Automatically Generated Markdown Table of Contents - [Auto Markdown TOC](https://marketplace.visualstudio.com/items?itemName=joffreykern.markdown-toc)
