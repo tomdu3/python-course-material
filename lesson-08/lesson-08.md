@@ -374,6 +374,12 @@ There are different ways how to organise your project and you can check the link
 
 - [Python Import Module From Different Directory](https://www.geeksforgeeks.org/python-import-module-from-different-directory/)
 
+- general syntax:
+  - `from directory_name import module_name` - import module from a directory. We call then functions by using `module_name.function_name()`
+  - `from directory_name.subdirectory_name import module_name` - import module from a subdirectory. We call then functions by using `module_name.function_name()`
+  - `from directory_name.module_name import function_name` - import specific function from a module in a directory
+  - `from directory_name.module_name import *` - import all functions from a module in a directory
+
 If we take into consideration the structure we presented in [Recommended Project Structure](#831-recommended-project-structure), we can import modules from a subdirectory this way.
 
 ```python
