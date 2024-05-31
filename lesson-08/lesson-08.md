@@ -133,5 +133,126 @@ In this lesson, we've learned how to write tests for our Python code using the `
 - [Writing good README files](https://coderefinery.github.io/documentation/writing-readme-files/)
 - [How to create a stunning README.md](https://medium.com/@sagarganiga468/how-to-create-a-stunning-readme-md-edf1c74b6a46)
   - [Sample README.md](https://github.com/SagarGaniga/How-to-Create-A-Stunning-README.md)
-- 
+
+### 8.2.1. Why Documentation Is Important
+
+The `README.md` file is the first file that is visible to others when you push your project to a GitHub repository. It is a great way to introduce your project to others and show them how to use your code. It also helps others understand your project. You can easily say that a `README.md` is a calling card for your project. It should be a summary of your project and its features.
+
+For many smaller and mid-size project, this is a good enough documentation. For larger projects, it should be accompanied by a detailed documentation. Nevertheless, if we browse through many of the open source projects, we can find that most of them have a good and complete `README.md` file.
+
+The `README.md` file is also a great way to document our project from it's conception to the final product for ourselves. It will happen in the future, that we would return to one of our projects, only to find ourselves reading the code and trying to understand what it does.
+
+### 8.2.2. MarkDown Syntax
+- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [MarkDown Guide: *Basic Syntax*](https://www.markdownguide.org/basic-syntax/)
+- [MarkDown Guide: *Cheet Sheet*](https://www.markdownguide.org/cheat-sheet/)
+- [John Gruber: *MarkDown: Basics*](https://daringfireball.net/projects/markdown/basics)
+
+`README.md` file is written in `MarkDown`. Markdown is a simple, easy-to-use syntax for formatting text. It is a great way to document our project. We will not got too much into details here. Here is a demonstration of the basic syntax of `MarkDown`:
+
+Here is the Markdown syntax demonstration in two parts:
+
+**Headings**
+```
+# Heading 1
+## Heading 2
+### Heading 3
+```
+**Text Formatting**
+```
+**Bold text**
+*Italic text*
+___Underlined text___
+```
+
+**Links**
+```
+[Link to Google](https://www.google.com)
+[Link to Google](https://www.google.com "Title of link")
+
+```
+
+**Code**
+For code quotes we use triple backticks. If we want to have syntax highlighting we can write the name of the coding language immediately after the backticks.
+
+\`\`\`python
+print("Hello, world!")
+\`\`\`
+
+```python
+print("Hello, world!")
+```
+
+```
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+|----------|----------|----------|
+| Cell 4   | Cell 5   | Cell 6   |
+```
+
+```
+> This is a quote
+> That's all folks!
+```
+
+```
+Term: Definition
+:   Description
+```
+
+```
+<h1>Heading</h1>
+<p>This is a paragraph</p>
+```
+**Effective Example**
+# Heading 1
+
+This is a sample Markdown document. It uses various Markdown syntax elements to format the text.
+
+**Bold text** and *Italic text* are used to emphasize certain words.
+
+[Link to Google](https://www.google.com) and [Link to Google](https://www.google.com "Title of link") are used to create links.
+
+
+```python
+print("Hello, world!")
+```
+
+
+The following table shows the structure of a Markdown document:
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+|----------|----------|----------|
+| Cell 4   | Cell 5   | Cell 6   |
+
+This quote is taken from the famous movie "Who Framed Roger Rabbit".
+
+Definition lists are used to define technical terms:
+
+```
+Term: Definition
+:   Description
+```
+
+Term: Definition
+:   Description
+
+Finally, HTML code is used to format the text:
+
+```html
+<h1>Heading</h1>
+<p>This is a paragraph</p>
+```
+<h1>Heading</h1>
+<p>This is a paragraph</p>
+
+*Image*
+```
+![Image Text](link-to-the-image)
+```
+
+![Image](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
