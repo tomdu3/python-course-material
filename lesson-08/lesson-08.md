@@ -124,3 +124,14 @@ In this example, we've created a fixture that creates a temporary directory befo
 ### Conclusion
 
 In this lesson, we've learned how to write tests for our Python code using the `unittest` module and explored the `assert` statement. We've also covered why testing is important, how to set up testing, and some best practices for writing tests. With testing, we can ensure that our code is working correctly and catch any errors or bugs early on.
+
+## 8.2. Project Documentation
+
+- [Readme Guide](https://youtu.be/l1DE7L-4eKQ)
+- [How to write a kickass README](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9)
+- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [Writing good README files](https://coderefinery.github.io/documentation/writing-readme-files/)
+- [How to create a stunning README.md](https://medium.com/@sagarganiga468/how-to-create-a-stunning-readme-md-edf1c74b6a46)
+  - [Sample README.md](https://github.com/SagarGaniga/How-to-Create-A-Stunning-README.md)
+- 
+
