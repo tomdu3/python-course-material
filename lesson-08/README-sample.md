@@ -11,6 +11,12 @@ My Python Project includes:
 * [List of features]
 * [List of functionalities]
 
+## Flowchart
+
+Here is a flowchart that illustrates the basic steps involved in using the project:
+
+[Flowchart image]
+
 ## Technologies
 
 The project is built using:
@@ -66,11 +72,6 @@ python my_project.py
 ```
 You can then use the defined environmental variables in your code by accessing them using the `os.environ` dictionary.
 
-## Flowchart
-
-Here is a flowchart that illustrates the basic steps involved in using the project:
-
-[Flowchart image]
 
 **Step 1: Start**
 
@@ -108,6 +109,10 @@ To use the project, follow these steps:
 
 The project uses [list of configuration files] and [list of environment variables]. For more information, see [configuration file].
 
+## Changelog
+
+For a list of significant changes made to the project, see [changelog file].
+
 ## Contributing
 
 To contribute to the project, follow these steps:
@@ -124,9 +129,7 @@ My Python Project is licensed under [license name]. For more information, see [l
 
 The project was made possible by [list of contributors]. Special thanks to [list of contributors] for their contributions.
 
-## Changelog
 
-For a list of significant changes made to the project, see [changelog file].
 
 ## Links
 
