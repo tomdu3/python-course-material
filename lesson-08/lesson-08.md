@@ -121,6 +121,42 @@ In this example, we've created a fixture that creates a temporary directory befo
 - Use fixtures to create a controlled environment for your tests.
 - Run your tests regularly to catch any errors or bugs early on.
 
+### Executing Tests
+
+In main project directory, run `pytest` from the terminal (check if `pytest` is installed with `pip install pytest`):
+
+```bash
+pytest
+```
+- output:
+- ```
+platform: Windows-10-10.0.19044-SP0
+rootdir: C:\Users\user\Documents\GitHub\python-automation\lesson-08
+plugins: python-dotenv
+collected 1 item
+
+test_lesson08.py ......
+
+====================  1 passed in 0.00s  ====================
+```
+or, if we wish to have more options, run `pytest -v` to see the output of the tests.
+
+```bash
+pytest -v
+```
+
+- output:
+- ```
+platform: Windows-10-10.0.19044-SP0
+rootdir: C:\Users\user\Documents\GitHub\python-automation\lesson-08
+plugins: python-dotenv
+collected 2 items
+
+test_lesson08.py: test_addition     PASSED [50%]
+test_lesson08.py: test_subtraction  PASSED [100%]
+====================  2 passed in 0.00s  ====================
+```
+
 ### Conclusion
 
 In this lesson, we've learned how to write tests for our Python code using the `unittest` module and explored the `assert` statement. We've also covered why testing is important, how to set up testing, and some best practices for writing tests. With testing, we can ensure that our code is working correctly and catch any errors or bugs early on.
