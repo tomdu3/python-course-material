@@ -402,3 +402,27 @@ from aux.highscores import *
 - in this case we need to call functions by using only `function_name()`
 
 
+## 8.4. Using Screenshots and Screencasts in the documentation
+
+- [Asciinema](https://asciinema.org/) - a CLI tool to record and share terminal sessions.
+- [pyPeek](https://github.com/firatkiral/pypeek) - a terminal-based screen cast tool.
+
+To illustrate functionalities, we can use screenshots and screencasts in the documentation. This is a very easy and effective way to present the project and it's features.
+
+Let us see what are they:
+- `screenshots` are image files and stored in `docs/img` folder
+- `screencasts` are usually `gif` files and stored in `docs/img` folder
+- if they are in a video format, best way is to use `YouTube ` platform and add link to the video. Presenting your project in a video gives you an opportunity to explain your project verbally and, if you wish, in a more visually appealing way (video editing is an important part of this process).
+
+Examples:
+**Asciinema**
+[![asciicast](https://asciinema.org/a/iUTVa1Dg0BcPwqIESMCPv5BHF.svg)](https://asciinema.org/a/iUTVa1Dg0BcPwqIESMCPv5BHF)
+
+**pyPeek gif image**
+![pyPeek gif image](https://github.com/tomdu3/smiling-depression/blob/main/assets/readme_images/testing/navbar-links.gif?raw=true)
+
+**Image**
+![Static Image](https://github.com/tomdu3/smiling-depression/blob/main/assets/readme_images/amiresponsive.png?raw=true)
+
+**Screencast Video**
+[The Ultimate Guide: What Is A Screencast & How To Create One? (2024)](https://www.vmaker.com/blog/ultimate-guide-what-is-screencast-how-to-create-one/)
