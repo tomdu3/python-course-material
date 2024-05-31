@@ -172,6 +172,30 @@ ___Underlined text___
 
 ```
 
+**Lists**
+- ordered lists
+```
+1. Item 1
+2. Item 2
+3. Item 3
+```
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+- unordered lists
+
+```
+- Item 1
+- Item 2
+- Item 3
+```
+
+- Item 1
+- Item 2
+- Item 3
+
 **Code**
 For code quotes we use triple backticks. If we want to have syntax highlighting we can write the name of the coding language immediately after the backticks.
 
@@ -205,10 +229,7 @@ Term: Definition
 <h1>Heading</h1>
 <p>This is a paragraph</p>
 ```
-**Effective Example**
-# Heading 1
-
-This is a sample Markdown document. It uses various Markdown syntax elements to format the text.
+***Example Outputs***
 
 **Bold text** and *Italic text* are used to emphasize certain words.
 
@@ -225,12 +246,17 @@ The following table shows the structure of a Markdown document:
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
-|----------|----------|----------|
 | Cell 4   | Cell 5   | Cell 6   |
+---
 
-This quote is taken from the famous movie "Who Framed Roger Rabbit".
+**Quotes**
+```
+> This is a quote
+```
 
-Definition lists are used to define technical terms:
+> This is a quote
+
+**Definition lists** are used to define technical terms:
 
 ```
 Term: Definition
@@ -240,7 +266,14 @@ Term: Definition
 Term: Definition
 :   Description
 
-Finally, HTML code is used to format the text:
+**Image**
+```
+![Image Text](link-to-the-image)
+```
+
+![Image](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+Finally, **HTML code** is used to format the text:
 
 ```html
 <h1>Heading</h1>
@@ -248,11 +281,4 @@ Finally, HTML code is used to format the text:
 ```
 <h1>Heading</h1>
 <p>This is a paragraph</p>
-
-*Image*
-```
-![Image Text](link-to-the-image)
-```
-
-![Image](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
