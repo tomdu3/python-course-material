@@ -1,5 +1,4 @@
 from math import isclose
-from decimal import Decimal
 
 def check_floats_equal(a, b):
     if isclose(a, b):
