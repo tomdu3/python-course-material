@@ -1,16 +1,22 @@
-**Testing in Python**
+# 8. **Testing in Python**
 
-### Introduction
+- [Python 3.9.7 documentation](https://docs.python.org/3/library/unittest.html)
+- [Pytest documentation](https://docs.pytest.org/en/stable/)
+- [freeCodeCamp: *Pytest Tutorial – How to Test Python Code*](https://youtu.be/cHYq1MRoyI0)
+
+![Testing AI](./testingai.jpg)
+
+## 8.1. Introduction
 
 Testing is an essential part of the development process. It allows us to verify that our code is working correctly and catch any errors or bugs before releasing our software. In this lesson, we'll learn how to write tests for our Python code using the `unittest` module and explore the `assert` statement.
 
-### Why Testing is Important
+## 8.2. Why Testing is Important
 
 - Catching errors early: Testing allows us to catch errors and bugs early on, which can save us a lot of time and effort in the long run.
 - Improved quality: Writing tests ensures that our code is working correctly and meets our expectations.
 - Faster development: With a good set of tests in place, we can make changes to our code more confidently, knowing that our tests will catch any errors.
 
-### The `assert` Statement
+## 8.3. The `assert` Statement
 
 The `assert` statement is a built-in statement in Python used to, as the name says, assert if a given condition is true or not. If the condition is true, nothing happens, but if it's not true, an error is raised. Although, at first, it may look like the try and except clauses, they are completely different, and assert should not be used for error handling but for debugging and testing reasons.
 
@@ -27,7 +33,7 @@ print(add_numbers("2", 3))  # Raises an AssertionError
 
 In this example, we're using the `assert` statement to check that both inputs to the `add_numbers` function are integers. If they are not integers, an `AssertionError` is raised.
 
-### Writing Tests
+## 8.4. Writing Tests
 
 A test is a function that starts with the name `test_` followed by a descriptive name. For example:
 
@@ -40,7 +46,7 @@ def test_addition():
 
 In this example, we're testing whether the addition of 2 and 2 equals 4. We use the `assert` statement to verify this.
 
-### Running Tests
+## 8.5. Running Tests
 
 To run our tests, we'll use the `unittest.main()` function. This function will automatically discover and run all the test functions in our code.
 
@@ -68,7 +74,7 @@ OK
 
 This means that our test passed successfully!
 
-### Test Cases
+## 8.6. Test Cases
 
 A test case is a class that inherits from `unittest.TestCase`. We can use test cases to group related tests together.
 
@@ -87,7 +93,7 @@ class TestMathFunctions(unittest.TestCase):
 
 In this example, we've created a test case called `TestMathFunctions` that contains two test methods: `test_addition` and `test_subtraction`.
 
-### Test Fixtures
+## 8.7. Test Fixtures
 
 A test fixture is a setup and teardown routine that is run before and after each test. We can use fixtures to create a controlled environment for our tests.
 
@@ -113,7 +119,7 @@ class TestMathFunctions(unittest.TestCase):
 
 In this example, we've created a fixture that creates a temporary directory before each test and cleans it up after each test.
 
-### Best Practices
+## 8.8. Best Practices
 
 - Keep your tests simple and focused on one specific behavior.
 - Use descriptive names for your tests.
@@ -121,7 +127,7 @@ In this example, we've created a fixture that creates a temporary directory befo
 - Use fixtures to create a controlled environment for your tests.
 - Run your tests regularly to catch any errors or bugs early on.
 
-### Executing Tests
+## 8.9. Executing Tests
 
 In main project directory, run `pytest` from the terminal (check if `pytest` is installed with `pip install pytest`):
 
@@ -129,7 +135,8 @@ In main project directory, run `pytest` from the terminal (check if `pytest` is 
 pytest
 ```
 - output:
-- ```
+
+```
 platform: Windows-10-10.0.19044-SP0
 rootdir: C:\Users\user\Documents\GitHub\python-automation\lesson-08
 plugins: python-dotenv
@@ -146,7 +153,7 @@ pytest -v
 ```
 
 - output:
-- ```
+```
 platform: Windows-10-10.0.19044-SP0
 rootdir: C:\Users\user\Documents\GitHub\python-automation\lesson-08
 plugins: python-dotenv
@@ -157,9 +164,7 @@ test_lesson08.py: test_subtraction  PASSED [100%]
 ====================  2 passed in 0.00s  ====================
 ```
 
-### Conclusion
-
-In this lesson, we've learned how to write tests for our Python code using the `unittest` module and explored the `assert` statement. We've also covered why testing is important, how to set up testing, and some best practices for writing tests. With testing, we can ensure that our code is working correctly and catch any errors or bugs early on.
+- or, run `pytest -v -k <test_name>` to run only a specific test.
 
 ## 8.2. Project Documentation
 
@@ -169,6 +174,8 @@ In this lesson, we've learned how to write tests for our Python code using the `
 - [Writing good README files](https://coderefinery.github.io/documentation/writing-readme-files/)
 - [How to create a stunning README.md](https://medium.com/@sagarganiga468/how-to-create-a-stunning-readme-md-edf1c74b6a46)
   - [Sample README.md](https://github.com/SagarGaniga/How-to-Create-A-Stunning-README.md)
+
+![Documentation AI](./documentationai.jpg)
 
 ### 8.2.1. Why Documentation Is Important
 
@@ -461,4 +468,4 @@ Examples:
 ![Static Image](https://github.com/tomdu3/smiling-depression/blob/main/assets/readme_images/amiresponsive.png?raw=true)
 
 **Screencast Video**
-[The Ultimate Guide: What Is A Screencast & How To Create One? (2024)](https://www.vmaker.com/blog/ultimate-guide-what-is-screencast-how-to-create-one/)
+- [The Ultimate Guide: What Is A Screencast & How To Create One? (2024)](https://www.vmaker.com/blog/ultimate-guide-what-is-screencast-how-to-create-one/)
