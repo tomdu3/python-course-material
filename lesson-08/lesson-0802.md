@@ -166,6 +166,8 @@ Finally, **HTML code** is used to format the text:
 
 ### 8.2.3. How to Write a Good README File for Your GitHub Project
 
+- [Readme sample for the final project](https://drive.google.com/file/d/1Xtf8ofz3kwSFWoXUwYk6nOoxQu4vOrI9/view?usp=sharing)
+
 For the documentation, we can have more different `md`, but the one that is the primary is `README.md`. When we put that file in the root directory of our project, it is rendered on our GitHub project repo. GitHub automatically converts our headings into working links and it makes it easier to navigate through our project. It also can automatically generate the table of contents.
 
 Here is the list of sections and brief descriptions of each:
