@@ -1,4 +1,32 @@
+
 # My Python Project
+
+## Table of Contents
+* 1. [Table of Contents](#table-of-contents)
+* 2. [Introduction](#introduction)
+* 3. [Overview](#overview)
+* 4. [Flowchart](#flowchart)
+* 5. [Technologies](#technologies)
+* 6. [Getting Started](#getting-started)
+  * 6.1. [Clone the Repository](#clone-the-repository)
+  * 6.2. [Install Dependencies](#install-dependencies)
+  * 6.3. [Create a .env File](#create-a-.env-file)
+  * 6.4. [Define Environmental Variables](#define-environmental-variables)
+  * 6.5. [Running the Project](#running-the-project)
+* 7. [Usage](#usage)
+  * 7.1. [Step-by-Step Guide](#step-by-step-guide)
+  * 7.2. [Configuration](#configuration)
+* 8. [Changelog](#changelog)
+  * 8.1. [Issues](#issues)
+  * 8.2. [Bugs](#bugs)
+* 9. [Contributing](#contributing)
+* 10. [License](#license)
+* 11. [Credits](#credits)
+  * 11.1. [Code](#code)
+  * 11.2. [Media](#media)
+* 12. [Links](#links)
+
+
 
 ![Project image](https://miro.medium.com/v2/resize:fit:1400/1*S5MWmGdfBXGyCdaoo_xXkA.png)
 
