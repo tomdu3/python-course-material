@@ -166,7 +166,7 @@ Finally, **HTML code** is used to format the text:
 
 ### 8.2.3. How to Write a Good README File for Your GitHub Project
 
-- [Readme sample for the final project](https://drive.google.com/file/d/1Xtf8ofz3kwSFWoXUwYk6nOoxQu4vOrI9/view?usp=sharing)
+- [Readme sample for the final project](https://drive.google.com/file/d/1PdaXFhhNWr8f34knkLDaFJ6-SZQEeC4h/view?usp=sharing)
 
 For the documentation, we can have more different `md`, but the one that is the primary is `README.md`. When we put that file in the root directory of our project, it is rendered on our GitHub project repo. GitHub automatically converts our headings into working links and it makes it easier to navigate through our project. It also can automatically generate the table of contents.
 
@@ -214,7 +214,8 @@ Here is the provided sample you can use: [Sample README.md](./README-sample.md)
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) - a good MarkDown Tutorial from GitHub
 - [Readme.so](https://readme.so/) - as the website says - the easiest way to create a README. It is an interactive `README.md` editor.
 - [Example of a good GitHub README](https://github.com/SagarGaniga/How-to-Create-A-Stunning-README.md) - a good README example with different elements.
-- VS Code extension for Automatically Generated Markdown Table of Contents - [Auto Markdown TOC](https://marketplace.visualstudio.com/items?itemName=joffreykern.markdown-toc)
+- VS Code extension for Automatically Generated Markdown Table of Contents - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc)
+- [Readme sample for the final project](https://drive.google.com/file/d/1PdaXFhhNWr8f34knkLDaFJ6-SZQEeC4h/view?usp=sharing)
 
 ## 8.3. Project Directory Structure
 
