@@ -37,6 +37,9 @@ Here is the Markdown syntax demonstration in two parts:
 ```
 **Bold text**
 *Italic text*
+~~This is strikethrough text.~~
+
+<u>This is underlined text.</u>
 ```
 
 **Links**
@@ -106,6 +109,10 @@ Term: Definition
 ***Example Outputs***
 
 **Bold text** and *Italic text* are used to emphasize certain words.
+
+~~This is strikethrough text.~~
+
+<u>This is underlined text.</u>
 
 [Link to Google](https://www.google.com) and [Link to Google](https://www.google.com "Title of link") are used to create links.
 
