@@ -1,5 +1,7 @@
 # My Python Project
 
+![Project image](https://miro.medium.com/v2/resize:fit:1400/1*S5MWmGdfBXGyCdaoo_xXkA.png)
+
 ## Introduction
 
 My Python Project is a [brief description of the project]. For more information, visit [project website].
@@ -15,14 +17,24 @@ My Python Project includes:
 
 Here is a flowchart that illustrates the basic steps involved in using the project:
 
-[Flowchart image]
+![Flowchart image](https://i.sstatic.net/B6Br2.png)
 
 ## Technologies
 
 The project is built using:
 
 * [List of technologies]
+  * [Python programming language](https://www.python.org/)
+  * [MarkDown language](https://daringfireball.net/projects/markdown/) - for the documentation
+  * 
 * [List of dependencies]
+  * [PyFiglet](https://pypi.org/project/pyfiglet/)
+  * 
+* [List of tools]
+  * [PyPeek](https://pypi.org/project/pypeek/)
+  * [Asciinema](https://asciinema.org/)
+  * [VS Code](https://code.visualstudio.com/)
+  * [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ## Getting Started
 
@@ -79,19 +91,25 @@ You can then use the defined environmental variables in your code by accessing t
 
 **Step 2: Input Data**
 
-* Enter your input data using the command-line interface.
+* Enter your input data using the command-line interface. 
+  * Explain what are the expected inputs.
+  * Show an example of a valid input and/or screencast or screenshot.
 
 **Step 3: Process Data**
 
 * The project will process your input data using the algorithms and logic implemented in the code.
+  * Explain what the code does.
 
 **Step 4: Output Results**
 
 * The project will output the results of the processing step to the console.
+  * Explain the results.
+  * Show an example of a valid output and/or screencast or screenshot.
 
 **Step 5: End**
 
 * The project will terminate and return to the command line.
+  * Explain the reason for termination (error or success ending). 
 
 ## Usage
 
@@ -108,8 +126,19 @@ To use the project, follow these steps:
 ### Configuration
 
 The project uses [list of configuration files] and [list of environment variables]. For more information, see [configuration file].
+    - [Configuration file] - explanation and default settings (`.env`)
+    - `requirements.txt` - explanation of the dependencies
+
 
 ## Changelog
+
+### Issues
+* Describe the issues and challenges you had with the project functionalities and how they were resolved.
+
+### Bugs
+* Describe the bugs and how they were fixed.
+* If they are still some unsolved bugs, describe them here and recreate the enviroment to reproduce them, as well as the reasons for the unsolved bugs.
+* If they aren't bugs in the code, write that down (e.g. `There are no known bugs in the code`).
 
 For a list of significant changes made to the project, see [changelog file].
 
@@ -127,7 +156,24 @@ My Python Project is licensed under [license name]. For more information, see [l
 
 ## Credits
 
-The project was made possible by [list of contributors]. Special thanks to [list of contributors] for their contributions.
+### Code
+- [Reference](https://github.com/your-username/my-python-project) - The sorting algorithm modified for this project.
+- [Readme](https://github.com/tomdu3/smiley-memories) - This Readme served as a template for the documentation.
+
+### Media
+**Images**
+- [Image of an Elephant](https://images.com/image-of-an-elephant.jpeg)
+-
+
+**Sounds**
+-
+-
+
+
+The project was made possible by
+    - [list of contributors].
+Special thanks to
+    - [list of contributors] for their contributions.
 
 
 
