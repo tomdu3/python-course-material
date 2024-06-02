@@ -205,7 +205,6 @@ Here is the Markdown syntax demonstration in two parts:
 ```
 **Bold text**
 *Italic text*
-___Underlined text___
 ```
 
 **Links**
