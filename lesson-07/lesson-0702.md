@@ -185,3 +185,62 @@ venv/
   - You can then copy the generated contents from the web page and paste it into a new `.gitignore` file of your project. 
 
 
+
+## 7.5. `uv` - Modern Project and Environment Manager
+
+- [`uv` Documentation](https://docs.astral.sh/uv/)
+
+- `uv` is an extremely fast Python package and project manager, written in Rust. It serves as a modern drop-in replacement for `pip`, `venv`, `poetry`, and other tools.
+- It not only manages virtual environments but also handles dependencies, project details, and Python versions in a single unified tool.
+
+### 7.5.1. Installing `uv`
+
+You can install `uv` via curl (on macOS and Linux) or powerShell (on Windows):
+
+```bash
+# macOS/Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+### 7.5.2. Initializing a Project
+
+To create a new project with `uv` (which handles dependencies, Python version, and project details):
+
+```bash
+uv init my_project
+cd my_project
+```
+
+This creates a `pyproject.toml` file which centrally stores your project details, including the project version (`version = "0.1.0"` by default) and a list of dependencies.
+
+### 7.5.3. Managing Python Versions
+
+`uv` can automatically download and manage Python versions for your project:
+
+```bash
+uv python pin 3.12
+```
+
+This pins the project to use Python 3.12 (setting it in the `.python-version` file and updating `pyproject.toml`), ensuring everyone working on the project uses the same Python version.
+
+### 7.5.4. Managing Dependencies
+
+You can add dependencies to your project:
+
+```bash
+uv add requests
+```
+
+This will automatically:
+1. Create a virtual environment (named `.venv`) if one doesn't exist.
+2. Install the `requests` package.
+3. Add `requests` to your `pyproject.toml` and update the `uv.lock` file to lock the dependency versions.
+
+### 7.5.5. Running Code in the Environment
+
+You don't need to explicitly activate the virtual environment! You can use the `uv run` command, which ensures that the script runs seamlessly inside the project's virtual environment:
+
+```bash
+uv run python script.py
+```
+
